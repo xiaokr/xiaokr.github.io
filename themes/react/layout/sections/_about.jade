@@ -1,9 +1,9 @@
-include ../mixins/about
-
-section#about.about.scrollspy
-    .container
-        h2: span About us
-        h3 Meet the superheroes
+//include ../mixins/about
+//
+//section#about.about.scrollspy
+//    .container
+//        h2: span About us
+//        h3 Meet the superheroes
 //        .row
 //            // About general photo
 //            +general-photo
@@ -21,3 +21,12 @@ section#about.about.scrollspy
 //
 //            each star, i in site.data['stars']
 //                +detail(star, i)
+
+include ../mixins/home-about
+
+section#projects.projects.scrollspy
+    .container
+        h2: span 关于小氪
+        h3 几个工程师爸爸们为孩子们准备的礼物
+        .row
+            +top5about
