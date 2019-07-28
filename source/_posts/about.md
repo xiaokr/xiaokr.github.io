@@ -15,6 +15,7 @@ author:
 
 小氪机器人会给孩子带来无限精彩的未来!
 
-邮箱： hello@xiaokr.cc
-微信公众号: [qrcode_mp.jpg](./img/qrcode_mp.jpg)
 联系地址：上海市徐汇区凌云路388号
+邮箱： hello@xiaokr.cc
+微信公众号: 
+![qrcode_mp.jpg](./img/qrcode_mp.jpg)
