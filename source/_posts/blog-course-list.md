@@ -1,7 +1,7 @@
 ---
 title: KRobot入门课程
-featured: ./img/default-new-blog.jpg
-background: ./img/default-background.jpg
+featured: ./img/scratch-course.png
+background: ./img/scratch-course.png
 section: blog
 date: 2019-07-28 12:12:44
 tags:
