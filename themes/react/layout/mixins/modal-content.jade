@@ -3,7 +3,7 @@ mixin content(post, author, anchor, background, isPost)
     div(id=`${anchor}`).modal.bottom-sheet
         .modal-close.absolute &times;
         .modal-cover
-            .rectangle-50(style='background-image: url(' + `${background}` + ')')
+            .rectangle-50(style='padding-bottom: 25%; background-image: url(' + `${background}` + ')')
         .modal-content
             .row
                 .col.s12.l8.offset-l2
