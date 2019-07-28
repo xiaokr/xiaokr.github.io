@@ -1,6 +1,6 @@
 ---
 title: 更多精彩内容敬请期待！
-featured: ./img/startup.webp
+featured: ./img/coming_soon.jpg
 background: ./img/title-ppt.png
 section: blog
 date: 2017-07-29 21:14:55
