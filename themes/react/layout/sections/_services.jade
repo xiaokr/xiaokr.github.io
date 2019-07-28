@@ -1,0 +1,19 @@
+include ../mixins/home-services.jade
+                                    
+section#projects.projects.scrollspy 
+    .container                      
+        h2: span 图形化编程-KRobot
+        h3 孩子走进人工智能的第一步
+        .row                        
+            +top5services           
+
+
+// include ../mixins/services.jade
+// 
+// section#services.services.scrollspy
+//     .container
+//         h2: span KRobot图形化编程软件
+//         h3 孩子走进人工智能的第一步
+//         .row.big-icons-row.service-items.center
+//             each service in site.data['services']
+//                 +service(service)
