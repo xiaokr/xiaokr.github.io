@@ -18,15 +18,15 @@ menu:
   about:
     display-name: About
     external-link:
-  philosophy:
-    display-name: Philosophy
-    external-link:
-  contact:
-    display-name:
-    external-link:
-  faqs:
-    display-name: FAQs
-    external-link:
+#  philosophy:
+#    display-name: Philosophy
+#    external-link:
+#  contact:
+#    display-name:
+#    external-link:
+#  faqs:
+#    display-name: FAQs
+#    external-link:
   
 # show the subscribe area
 # default false
