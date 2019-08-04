@@ -1,13 +1,12 @@
 ---
 title: KRobot入门课程
-featured: ./img/default-new-blog.jpg
-background: ./img/default-background.jpg
+featured: ./img/scratch-course.png
+background: ./img/scratch-course.png
 section: blog
 date: 2019-07-28 12:12:44
 tags:
 author: Airren
 ---
-
 
 [第1课 熟悉编程环境--时钟程序](./course/小氪入门/第1课时钟程序/第1课.pptx) [程序下载](./course/小氪入门/第1课时钟程序/时钟程序练习2.sb2)
 [第2课 程序的开始](./course/小氪入门/第2课程序的开始/第二节.docx) [程序下载](./course/小氪入门/第2课程序的开始/按键控制.sb2)
@@ -25,9 +24,4 @@ author: Airren
 [第14课 数码管倒计时](./course/小氪入门/第14课数码管到计时器/第14课.pptx)[程序下载](./course/小氪入门/第14课数码管到计时器/数码管倒计时-无小数点版.sb2)
 [第15课 游戏制作-弹弹球](./course/小氪入门/第15课游戏制作——弹弹球/守球门3.sb2)[程序下载](./course/小氪入门/第15课游戏制作——弹弹球/守球门3.sb2)
 [第16课 游戏制作-打飞机](./course/小氪入门/第16课游戏制作——打飞机/打飞机.sb2)[程序下载](./course/小氪入门/第16课游戏制作——打飞机/打飞机.sb2)
-
-s
-
-[teste]
-
 
